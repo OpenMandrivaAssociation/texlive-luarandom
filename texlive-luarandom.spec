@@ -1,6 +1,6 @@
 Name:		texlive-luarandom
-Version:	49419
-Release:	2
+Version:	68847
+Release:	1
 Summary:	Create lists of random numbers
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/luarandom
