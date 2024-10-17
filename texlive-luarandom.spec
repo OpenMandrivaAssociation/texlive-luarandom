@@ -3,7 +3,7 @@ Version:	68847
 Release:	1
 Summary:	Create lists of random numbers
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/luarandom
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/luarandom
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/luarandom.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/luarandom.doc.r%{version}.tar.xz
